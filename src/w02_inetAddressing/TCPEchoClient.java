@@ -1,4 +1,4 @@
-package t02_inetaddressing;
+package w02_inetAddressing;
 
 import java.io.*;
 import java.net.*;
